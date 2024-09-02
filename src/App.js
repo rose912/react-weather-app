@@ -6,8 +6,7 @@ import './App.css';
   return (
     <div className="App">
       <div className="container">
-        <h1>Weather App</h1>
-        <weather />
+        <Weather />
         <footer>
           This project was coded by Rosemary Obioma and is{" "}
           <a
