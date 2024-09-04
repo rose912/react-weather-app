@@ -6,7 +6,7 @@ import './App.css';
   return (
     <div className="App">
       <div className="container">
-        <Weather />
+        <Weather defaultCity="New York" />
         <footer>
           This project was coded by Rosemary Obioma and is{" "}
           <a
