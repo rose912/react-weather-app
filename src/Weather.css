@@ -1,9 +1,14 @@
+body {
+  background-color: #a690a9;
+  
+}
+
 .Weather {
   font-family: 'Courier New', Courier, monospace;
   border: 1px solid #dadde1;
   padding: 16px;
   border-radius: 5px;
-  background-color: #92a8d1;
+  background-color: #c9b5c8;
 }
 
 .Weather h1 {
@@ -49,4 +54,17 @@
 
 .Weather a {
   text-decoration: none;
+}
+
+.btn-custom {
+    background-color: #634870; 
+    color: white; 
+    border: none; 
+    padding: 8px; 
+    border-radius: 5px; 
+    cursor: pointer; 
+}
+
+.btn-custom:hover {
+    background-color: #442a54; 
 }
